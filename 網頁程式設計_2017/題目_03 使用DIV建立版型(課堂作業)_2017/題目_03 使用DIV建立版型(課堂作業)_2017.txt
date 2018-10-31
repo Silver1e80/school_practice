@@ -1,0 +1,5 @@
+如附件圖檔，做一個PHP網頁，使用課本素材，用XAMPP SERVER進行Preview並CUT 圖
+
+圖檔:學號_姓名.jpg
+
+2017.03.16

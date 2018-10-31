@@ -1,0 +1,9 @@
+多代繼承
+
+試撰寫一類別 GrandSonCMath 繼承 SonCMath類別，此類別有一個計算階乘的方法 getFactorial()。
+在主程式建立 GrandSonCMath物件，呼叫 getMax()、getFabonacci()與 getFactorial();
+
+
+ps: n階乘 n!=1*2*...*n
+
+2017.03.21-2017.03.28
